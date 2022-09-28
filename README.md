@@ -1,2 +1,2 @@
-# MidEngineer-EDI
+# EDI
 EDI Class Materials
