@@ -2,7 +2,7 @@
 let gif;
 
 function preload (){
-  gif = loadImage ('assets/he_spin.gif')
+  gif = loadImage ('assets/bluecool.gif')
 }
 
 function setup() { //runs once
